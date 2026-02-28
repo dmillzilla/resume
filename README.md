@@ -10,7 +10,6 @@ Over 8+ years at PayPal, I have driven platform strategy and execution across gl
 - Location: Greater Chicago Area (Open to Remote)
 - LinkedIn: [linkedin.com/in/dmillz](https://www.linkedin.com/in/dmillz/)
 - GitHub: [github.com/dmillzilla](https://github.com/dmillzilla)
-- Email: `add-your-email@example.com`
 
 ## Core Strengths
 - Engineering leadership for multi-team, globally distributed organizations

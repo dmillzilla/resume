@@ -19,7 +19,7 @@ Over 8+ years at PayPal, I have driven platform strategy and execution across gl
 - Leadership development, coaching, and high-ownership team culture
 
 ## Technical Expertise
-- Languages: Ruby, Java, SQL
+- Languages: Ruby, SQL, JavaScript
 - Frameworks & Platforms: Ruby on Rails, Kafka, Snowflake
 - Data: PostgreSQL, enterprise data warehousing, batch and streaming pipelines
 - Cloud & Infrastructure: AWS, Kubernetes
